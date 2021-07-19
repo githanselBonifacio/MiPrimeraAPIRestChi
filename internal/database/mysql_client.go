@@ -3,9 +3,7 @@ package database
 import (
 	"database/sql"
 
-	"github.com/githanselBonifacio/primeraAPIRestChi/internal/logs"
-	//"github.com/githanselbonifacio/MiPrimeraAPIRestChi/internal/logs"
-	//_ "github.com/go-sql-driver/mysql"
+	"github.com/githanselBonifacio/MiPrimeraAPIRestChi/internal/logs"
 )
 
 type MySqlClient struct {
